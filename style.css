@@ -363,9 +363,9 @@ header {
  
  
 }
-@media only screen and (max-width: 900px) {
+@media only screen and (max-width: 600px) {
   #aboutus {
-    font-size: 6px;
+    font-size: 3px;
   }
 }
 .maintext{
