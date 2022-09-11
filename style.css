@@ -33,7 +33,10 @@ body{
     align-items: center;
     padding: 30%;
 }
-
+.headText{
+  height: auto;
+  width: 18vmax;
+}
 /* Position the image container (needed to position the left and right arrows) */
 #sliderimage{
     box-sizing: border-box;
